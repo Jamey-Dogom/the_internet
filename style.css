@@ -1,0 +1,314 @@
+* {
+  box-sizing: border-box;
+
+}
+
+h3 {
+  color: #256599;
+  margin-top: -1px;
+  margin-bottom: -6px;
+}
+
+.top-hr {
+  vertical-align: top;
+  display: block;
+  height: 2.657px;
+  width: 712px;
+  background-color: lightgray;
+  margin-left: -3px;
+
+}
+
+.db {
+  color: #256599;
+}
+
+.b {
+  color: #04aed9;
+}
+
+.red {
+  color: #d62222;
+}
+
+.container {
+  height: 1100px;
+  width: 1000px;
+  background-color: #fff;
+  padding-left: 10px;
+  padding-right: 10px;
+
+}
+
+.contact-me {
+  display: inline-block;
+  margin-left: 3px;
+  margin-top: 22px;
+}
+
+
+.dns {
+  display: inline-block;
+  width: 64%;
+  vertical-align: top;
+  margin-top: 8px;
+}
+
+.al-r {
+  text-align: center;
+}
+
+.ilb {
+  display: inline-block;
+  margin-left: 5px;
+  margin-top: -15px;
+}
+
+.content {
+  background-color: #e6e6e6;
+  height: 1000px;
+  margin-top: -25px;
+}
+
+.phone {
+  display: inline-block;
+  margin-top: -30px;
+  margin-left: 62px;
+}
+
+.info1 {
+  font-size: 11px;
+}
+
+.info2 {
+  font-size: 11px;
+  margin-top: -15px;
+}
+
+.num {
+  font-size: 23px;
+  color: #04aed9;
+  margin-top: -8px;
+  margin-right: 8px;
+}
+
+.home-pic {
+  height: 20px;
+  width: 20px;
+}
+
+.phone-pic {
+  height: 35px;
+  width: 35px;
+  display: inline-block;
+  vertical-align: top;
+  margin-top: 44px;
+}
+
+.so {
+  font-size: 16px;
+
+}
+.html-pic {
+  display: inline-block;
+  height: 110px;
+  width: 110px;
+  padding-top: 20px;
+  padding-left: 10px;
+}
+
+.bld {
+  font-weight: bold;
+}
+
+.big3 {
+  display: inline-block;
+  padding-left: 130px;
+  margin-top: -95px;
+  vertical-align: top;
+  padding-right: 40px;
+}
+.learn {
+  margin-top: -5px;
+}
+
+.bt1{
+  background-color: #3a75a6;
+  border-radius: 5px;
+  color: #fff;
+  font-size: 14px;
+  padding: 9px;
+  padding-left: 39px;
+  padding-right: 39px;
+  margin-left: 19px;
+  margin-bottom: 3px;
+  margin-top: 23px;
+}
+
+.bt3{
+  border-radius: 1px;
+  border-color: #000;
+  background-color: #48c8db;
+  border-radius: 5px;
+  color: #fff;
+  font-size: 12px;
+  padding: 7px;
+  padding-left: 26px;
+  padding-right: 29px;
+  margin-left: 56px;
+  margin-bottom: 3px;
+  margin-top: -61px;
+  position: absolute;
+}
+
+.arr {
+  font-size: 8px;
+  margin-top: -3px;
+}
+
+li {
+  padding-bottom: 10px;
+  padding-left: 10px;
+  font-size: 14px;
+  margin-top: -7px;
+}
+
+.bt2 {
+    background-color: #eb8928;
+    border-radius: 5px;
+    color: #fff;
+    font-size: 14px;
+    padding: 9px;
+    padding-left: 32px;
+    padding-right: 28px;
+    margin-left: 19px;
+   margin-bottom: 15px;
+}
+
+hr {
+  height: 1px;
+  width: 188px;
+  background-color: gray;
+  margin-left: 20px;
+}
+
+button {
+  display: block;
+}
+
+.net {
+  color: #25669c;
+}
+
+.top-bar {
+  margin-left: 20px;
+}
+
+.title {
+display: inline-block;
+font-size: 49px;
+vertical-align: top;
+margin-bottom: 30px;
+color: #454545;
+font-family: Times;
+font-weight: lighter;
+}
+
+.globe {
+  padding-top: 5px;
+  height: 80px;
+  width: 80px;
+  margin-top: 22px;
+}
+
+.www {
+  font-size: 35px;
+  font-weight: lighter;
+  font-family: Times;
+  color: #fff;
+  background-color: #2c699c;
+  vertical-align: top;
+  margin-top: -30px;
+  padding-left: 33px;
+  padding-top: 5px;
+  padding-bottom: 15px;
+}
+
+.content {
+width: auto;
+display: inline-block;
+}
+.lit {
+  font-size: 16px;
+}
+.server-client {
+  height: 100px;
+  padding-left: 20px;
+  margin-left: 50px;
+  padding-left: 130px;
+  margin-bottom: 10px;
+}
+
+.aside1 {
+  font-weight: bold;
+  font-size: 17px;
+  display: inline-block;
+  width: 25%;
+  vertical-align: top;
+  margin-left: 5px;
+  padding-left: 5px;
+  text-align: left;
+  margin-top: 16px;
+  padding-right: 20px;
+}
+
+.resize1 {
+  height: 260px;
+  width: 185px;
+  margin-top: 67px;
+  margin-left: 31px;
+}
+
+.txt {
+  width: 19%;
+  margin-left: 6px;
+  color: #fff;
+  padding-left: 44px;
+  position: absolute;
+  text-align: center;
+  margin-top: 84px;
+  font-size: 19px;
+
+}
+
+.resize2 {
+  height: 100px;
+  width: 70px;
+  margin-left: -131px;
+    margin-bottom: 72px;
+}
+
+.aside2 {
+  margin-top: -350px;
+}
+
+.main {
+  display: inline-block;
+  width: 74%;
+  vertical-align: top;
+  padding-left: 10px;
+  padding-right: 21px;
+}
+
+p {
+  font-size: 14px;
+}
+
+.footer {
+   border: 4px solid #0087db;
+   border-bottom: none;
+   width:670px;
+   height:150px;
+   margin-left: 270px;
+   margin-top: 10px;
+}
